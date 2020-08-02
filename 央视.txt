@@ -1,0 +1,17 @@
+节目清晰度,http://127.0.0.1
+1920×1080,http://127.0.0.1
+CCTV3源一,http://127.0.0.1
+为5.1声道的源,http://127.0.0.1
+CCTV15是5.1,http://127.0.0.1
+声道的源,http://127.0.0.1
+CCTV1高清,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225618/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225618/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225762/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225844/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225918/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225501/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225790/2/index.m3u8?fmt=ts2hls
+CCTV-2财经,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225619/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225500/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
+CCTV-3综艺,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225791/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225792/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225647/2/index.m3u8?fmt=ts2hls
+CCTV-4国际,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225841/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225842/2/index.m3u8?fmt=ts2hls
+CCTV-5体育,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225795/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225796/2/index.m3u8?fmt=ts2hls
+CCTV5加,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225793/2/index.m3u8?fmt=ts2hls#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225794/2/index.m3u8?fmt=ts2hls
+CCTV6,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225843/2/index.m3u8?fmt=ts2hls
+CCTV6,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225845/2/index.m3u8?fmt=ts2hls
+CCTV6,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+CCTV6,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225650/2/index.m3u8?fmt=ts2hls
+CCTV15【5.1声道】,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
